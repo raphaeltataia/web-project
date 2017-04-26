@@ -1,7 +1,8 @@
 from django.contrib import admin
 
-from .models import Recipe
-from .models import Chief
+# from .models import Recipe
+# from .models import Chief
+from models import *
 
 # developed by @raphaeltataia
 
